@@ -1,0 +1,34 @@
+From: "Security Alert" <security@micros0ft-support.com>
+To: user@example.com
+Subject: Action Required: Unusual login activity detected
+Date: Fri, 16 Jan 2026 10:00:00 +0300
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="frontier"
+
+--frontier
+Content-Type: text/plain; charset="UTF-8"
+
+Dear User,
+
+We detected an unusual login attempt on your account from a new device. 
+If this was not you, please verify your account immediately by clicking the link below:
+
+http://malicious-update-verify.com/login
+
+Please find the activity report attached to this email.
+
+--frontier
+Content-Type: application/pdf; name="Activity_Report.pdf"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="Activity_Report.pdf"
+
+JVBERi0xLjQKJcOkw7zDtsOfCjIgMCBvYmoKPDwvTGVuZ3RoIDMgMCBSL0ZpbHRlci9GbGF0ZURl
+Y29kZT4+CnN0cmVhbQp4nDMvMTdfS00uS01LS01LTVMzTURCRU0zS00zT0xMTU0zS00zTExNTVMz
+S01NTVMzS00zTExNTVMzS00zTExNTVMzS00zTExNTVMzS00zTExNTVMzS00zTExNTVMzS00zTExN
+TVMzS00zTExNTVMzS00zTExNTVMzS00zTExNTVMzS00zTExNTVMzS00zTExNTVMzS00zTExNTVMz
+S00zTExNTVMzS00zTExNTVMzS00zTExNTVMzS00zTExNTVMzS00zTExNTVMzS00zTExNTVMzS00z
+TExNTVMzS00zTExNTVMzS00zTExNTVMzS00zTExNTVMzS00zTExNTVMzS00zTExNTVMzS00zTExN
+TVMzS00zTExNTVMzS00zTExNTVMzS00zTExNTVMzS00zTExNTVMzS00zTExNTVMzS00zTExNTVMz
+S00zTExNTVMzS00zTExNTVMzS00zTExNTVMzS00zTExNTVMzS00zTExNTVMzS00zTExNTVMzS00z
+TExNTVMzS00zTExNTVMzS00zTExNTVMzS00zTExNTVMzS00zTExNTVMzS00zTExNTVMzS00zTExN
+TVMzS00
